@@ -1,0 +1,11 @@
+[package]
+name = "cryptopals_solutions"
+version = "0.1.0"
+authors = ["Yishen Miao <mys721tx@gmail.com>"]
+edition = "2018"
+license = "GPL-3.0"
+repository = "https://github.com/mys721tx/cryptopals_solutions/"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
